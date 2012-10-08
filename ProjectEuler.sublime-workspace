@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql",
+				"mysql_close"
+			],
+			[
+				"gl",
+				"global	(keyword, instance)"
+			],
+			[
+				"re",
+				"removeDup	(global, function)"
+			],
+			[
+				"c",
+				"calc	(global, function)"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"pr",
+				"PrimeList"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ans",
+				"ans_p	(local, instance)"
+			],
+			[
+				"main",
+				"__name__ == '__main__':  (variable)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				":set",
+				"SFTP: Setup Server…"
+			],
+			[
+				":sft",
+				"Set Syntax: SFTP Output Panel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 208.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/ProjectEuler/util/__init__.py",
+		"/E/HuohuaWorkspace/webapp/mahua_guanwang/1/jump_sae/jump_sae.php",
+		"/E/HuohuaWorkspace/webapp/mahua_guanwang/1/jump_sae/init_jump_sae_mysql.php",
+		"/E/HuohuaWorkspace/webapp/mahua_guanwang/1/jump_sae/j.php",
+		"/E/HuohuaWorkspace/php/jump_sae/init_jump_sae_mysql.php",
+		"/E/HuohuaWorkspace/php/jump_sae/jump_sae.php",
+		"/C/Users/ding/Desktop/m.c",
+		"/E/HuohuaWorkspace/php/jump_sae.php",
+		"/E/ProjectEuler/util/Prime.py",
+		"/E/ProjectEuler/problem60/p60.py",
+		"/E/ProjectEuler/problem15/p15.py",
+		"/E/ProjectEuler/problem12/p12.py",
+		"/E/ProjectEuler/problem11/p11.py",
+		"/E/ProjectEuler/problem7/p7.py",
+		"/E/ProjectEuler/problem201/p201.py",
+		"/E/ProjectEuler/problem10/p10.py",
+		"/E/ProjectEuler/problem203/p203.py",
+		"/E/ProjectEuler/util/test.py",
+		"/E/ProjectEuler/util/Combination.py",
+		"/E/HuohuaWorkspace/Python/TestImgQuality/main.py",
+		"/E/ProjectEuler/problem14/p14.py",
+		"/E/ProjectEuler/problem49/p49.py",
+		"/E/ProjectEuler/problem9/p9.py",
+		"/E/ProjectEuler/problem8/p8.py",
+		"/E/ProjectEuler/util/GCD.py",
+		"/E/ProjectEuler/problem6/p6.py",
+		"/E/ProjectEuler/problem20/p20.py",
+		"/E/ProjectEuler/problem3/p3.py",
+		"/E/ProjectEuler/problem2/p2.py",
+		"/E/ProjectEuler/util/FastPower.py",
+		"/E/ProjectEuler/util/Fibonacci.py",
+		"/E/ProjectEuler/problem48/p48.py",
+		"/E/ProjectEuler/problem16/p16.py",
+		"/E/ProjectEuler/problem4/p4.py",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/E/ProjectEuler/problem1/p1.py",
+		"/E/HuohuaWorkspace/sublime/test/main.py",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/HuohuaWorkspace/sublime/test/test.sublime-project",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/ding/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/E/HuohuaWorkspace/sublime/test/C.py",
+		"/E/HuohuaWorkspace/sublime/test/sdf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VARCHAR",
+			"<?",
+			"pm",
+			"			\n",
+			"data",
+			"S",
+			"1",
+			"def",
+			" :"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 380.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true
+}
